@@ -16,7 +16,6 @@ public class SoccerDatabase implements SoccerDB {
 
     // dummied up variable; you will need to change this
     private Hashtable database;
-    private String unused = "this will not be used at all";
 
     /**
      * add a player
